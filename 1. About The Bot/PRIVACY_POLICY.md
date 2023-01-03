@@ -9,5 +9,5 @@ To disable this, remove admin from our bot (default permission) and set up his p
 By using the bot, you agree the bot to collect these:  
 * Avatar, banner, status and messages of all members
 * Channel, role and member count for analytics
-* Your server's invite link, icon and banner  
+* Your server's invite link, icon and banner   
 These are necessary for the bot to work properly.

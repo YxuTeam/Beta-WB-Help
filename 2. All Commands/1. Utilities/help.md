@@ -1,6 +1,4 @@
 # Help Command
-Here's how to use the `w!help` command.
-## Usage
-(option): Obligatory option
-[option]: Optional option
-option1|option2: Either one of the 2 options
+Sends a panel directly in the channel with all the commands disponible and their brief description.  
+## Command
+w.<help|h>
