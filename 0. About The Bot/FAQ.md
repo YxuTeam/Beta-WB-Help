@@ -8,7 +8,8 @@ His full name is Beta Waza Bot, YxuTeam. Feel free to send suggestions to Waza80
 Currently it is hosted on [Railway](https://railway.app/). 
 BTW, the code is temporarily [open source](https://replit.com:/@YxuTeam/BrokenProperGoal) on [our Replit account](https://replit.com:/@YxuTeam/)
 ### What are the developers of Beta WB?
-* Developing, designing and redaction: **Waza80#8017**
-* ~~Wallet~~Founder: **Zeltales#8851**
+Beta WB is made by [Yxu Team](https://yxuteam.com).
+* Developing, designing and redaction: [**Waza80#8017**](https://waza.tk)
+* ~~Wallet~~Founder: [**Zeltales#8851**](https://zeltales.com)
 ### Who can I call if I have issues/thoughts with Beta WB?
 You can DM **Waza80#8017** for all issues, feedbacks or suggestions with Beta WB! We would be glad to hear you!
