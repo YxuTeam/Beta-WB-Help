@@ -3,4 +3,6 @@ Gets the bot's guild count, latency, and uptime. Also gets the github status and
 ## Command
 w!<status|stats|stat|st>
 ## Output
-<img align=left width=50% src="https://media.discordapp.net/attachments/1032209108121690182/1059931631877640363/image.png?width=512&height=452">
+<p align=center>
+<img align=center width=50% src="https://media.discordapp.net/attachments/1032209108121690182/1059931631877640363/image.png">
+</p>
