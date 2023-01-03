@@ -29,7 +29,7 @@ User is represented as a discord user. You can mention it in a command by differ
 
 Channel is represented by a (most likely text) discord channel. You can mention it in a command by different ways:
 * **By ID:** 1059904468398919740
-* **By mention:** `#general` | `<@1059904468398919740>`
+* **By mention:** `#general` | `<#1059904468398919740>`
 * **By autocomplete**: gen
 
 ### Role
